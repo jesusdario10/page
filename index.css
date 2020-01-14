@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(241, 154, 190);
+    font-size: 1.2rem;
+}
+header{
+    background-color: chocolate;
+}
+.altura-container{
+    height: 60vh;
+}
+footer{
+    background-color: rgb(77, 49, 201);
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+p{
+    display: block !important;
+}
